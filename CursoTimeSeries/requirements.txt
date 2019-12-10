@@ -1,0 +1,8 @@
+unidecode
+pandas
+geopandas
+descartes
+pandas-profiling
+matplotlib
+seaborn
+ipywidgets
